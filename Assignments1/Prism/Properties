@@ -1,0 +1,6 @@
+A [G (state1=1 => ((job1=1 & !job2=1 & !job3=1) | (!job1=1 & job2=1 & !job3=1) | (!job1=1 & !job2=1 & job3=1)))]
+
+A [G (state2=1 => ((job1=2 & !job2=2 & !job3=2) | (!job1=2 & job2=2 & !job3=2) | (!job1=2 & !job2=2 & job3=2)))]
+
+A [G (state3=1 => ((job1=3 & !job2=3 & !job3=3) | (!job1=3 & job2=3 & !job3=3) | (!job1=3 & !job2=3 & job3=3)))]
+
